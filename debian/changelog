@@ -1,5 +1,18 @@
-template-repository (1.0-1) unstable; urgency=medium
+golang-github-moby-patternmatcher (0.6.0-1) unstable; urgency=medium
+
+  * Team upload
+  * New upstream version
+
+ -- Reinhard Tartler <siretart@tauware.de>  Sun, 19 May 2024 20:35:52 -0400
+
+golang-github-moby-patternmatcher (0.5.0-2) unstable; urgency=medium
+
+  * Source only upload for testing migration
+
+ -- Shengjing Zhu <zhsj@debian.org>  Sat, 15 Oct 2022 02:47:44 +0800
+
+golang-github-moby-patternmatcher (0.5.0-1) unstable; urgency=medium
 
   * Initial release
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Shengjing Zhu <zhsj@debian.org>  Tue, 11 Oct 2022 01:02:09 +0800
